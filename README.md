@@ -9,10 +9,9 @@ Lifelong Learner. <br>
 
 https://jayantkp.github.io/me.jayant/
 
-* 🔭 I'm into Data Science, Deep Learning,Classical ML, Generative AI, NLP and Statistical Data Analysis.<br>
-* 👀 I’m currently exploring more about <code>LangChain</code>. <br>
+* 🔭 I'm into Data Science, Machine Learning, Deep Learning, Generative AI, NLP and Agentic AI.<br>
+* 👀 I’m currently exploring more about <code>Agentic AI</code>. <br>
 * ✨ Check out some of my articles in : <a href="https://jayant017.medium.com/" >Medium</a> <br> 
-* 📫 How to reach me: <a href="mailto:paljayant1998@gmail.com">paljayant1998@gmail.com</a> <br>
 * 💬 Let's connect on : <a href="https://www.linkedin.com/in/jayantkp/">LinkedIn </a> <br>
 <br>
 <br>
