@@ -15,9 +15,6 @@ https://jayantkp.github.io/me.jayant/
 * 💬 Let's connect on : <a href="https://www.linkedin.com/in/jayantkp/">LinkedIn </a> <br>
 <br>
 <br>
-<p align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=jayantkp&show_icons=true&theme=radical" />
-</p>
 <!--STREAK STATS
 <p align = "center">
    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jayantkp&theme=onedark_duo" />
